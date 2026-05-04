@@ -1,1 +1,1 @@
-# Just a Audio downloder (to remove rust from brain)
+# Collection of Pseudo-Scripts for somethings
